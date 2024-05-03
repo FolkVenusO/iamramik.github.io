@@ -8,7 +8,7 @@ h2 {
 }
 
 body {
-  background-color: LightSkyBlue;
+  background-color: DarkTurquoise;
   font-family: Trebuchet MS;
   color: white;
   text-align: center;
@@ -22,5 +22,5 @@ a {
   display: block;
   text-align: center;
   margin: 10px;
-  color: LightSkyBlue;
+  color: DarkTurquoise;
 }

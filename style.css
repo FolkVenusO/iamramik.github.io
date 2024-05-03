@@ -1,5 +1,6 @@
 img {
-  border-radius: 100px;
+  border-radius: 20px;
+  width: 400px;
 }
 
 h2 {
@@ -7,7 +8,7 @@ h2 {
 }
 
 body {
-  background-color: slateblue;
+  background-color: LightSkyBlue;
   font-family: Trebuchet MS;
   color: white;
   text-align: center;
@@ -21,5 +22,5 @@ a {
   display: block;
   text-align: center;
   margin: 10px;
-  color: slateblue;
+  color: LightSkyBlue;
 }

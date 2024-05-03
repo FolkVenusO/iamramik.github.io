@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  background-color: white;
+  background-color: DarkTurquoise;
   font-size: 20px;
   border-radius: 10px;
   padding: 10px;
   display: block;
   text-align: center;
   margin: 10px;
-  color: DarkTurquoise;
+  color: blue;
 }

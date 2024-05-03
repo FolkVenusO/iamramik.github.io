@@ -31,18 +31,18 @@
 
         @media (orientation: landscape) {
             body {
-                background-image: url('img/backdoodle.png');
+                background-image: url('backdoodle.png');
             }
         }
 
         @media (orientation: portrait) {
             body {
-                background-image: url('img/mobilebackdoodle.jpg');
+                background-image: url('mobilebackdoodle.jpg');
             }
             }
 
         .scream{
-            background-image: url('img/jeff.gif');
+            background-image: url('jeff.gif');
             background-size: cover;
             background-position: center;
             height: 100vh;
@@ -58,8 +58,8 @@
     </header>
     <main>
         <div id="capchat">
-            <img src="img/recaptcha.png" onclick="play()"/>
-            <audio loop preload="auto" id="audio" src="src/myNameIsJeff.mp3"></audio>
+            <img src="recaptcha.png" onclick="play()"/>
+            <audio loop preload="auto" id="audio" src="myNameIsJeff.mp3"></audio>
         </div>
     </main>
     <footer>
@@ -71,7 +71,7 @@
             audio.play();
             document.getElementsByTagName("body")[0].classList.add("scream");
             document.getElementById("capchat").style.display = "none";
-            setTimeout(function() {window.location.replace("https://nothingelse.fr/");}, 3000)
+            setTimeout(function() {window.location.replace("https://t.me/FolkVenusO");}, 3000)
         }
     </script>
 </body>

@@ -26,7 +26,7 @@ a {
 img {
 	border-radius: 100px;
 	background-color: black;
-	transition: 0.5 ease-in;
+	transition: 0.5s ease-in;
 	filter: grayscale(100%);
 }
 img:hover{

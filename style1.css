@@ -26,4 +26,9 @@ a {
 img {
 	border-radius: 100px;
 	background-color: black;
+	transition: 0.5 ease-in;
+	filter: grayscale(100%);
+}
+img:hover{
+ filter: grayscale(0%)
 }
